@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit-0803/Leet/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankit-0803/Leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ankit-0803/Leet/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/Ankit-0803/Leet/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ankit-0803/Leet/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-0803/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ankit-0803/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ankit-0803/Leet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
+| [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 ## Brainteaser
 |  |
 | ------- |
