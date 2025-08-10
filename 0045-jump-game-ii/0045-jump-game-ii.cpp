@@ -22,3 +22,6 @@ public:
 }
 
 };
+//currEnd is the edge of your current leap — once you're there, time to jump again.
+//farthest is looking ahead and saying, "I can reach that far next if I jump from the best possible stone in my current leap range."
+
