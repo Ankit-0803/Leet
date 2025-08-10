@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int n=nums.size();
-        int k=0;
+        int k=0; //unique element index
         for(int i=1; i<n; i++){
             if(nums[i]!=nums[k]){
                 k++;
