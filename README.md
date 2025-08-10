@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-0803/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-0803/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit-0803/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ankit-0803/Leet/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Ankit-0803/Leet/tree/master/0826-soup-servings) |
 ## Probability and Statistics
