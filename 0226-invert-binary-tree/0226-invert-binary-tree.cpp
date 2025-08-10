@@ -12,14 +12,11 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if(!root) return nullptr;
-        //recursively invert the left and right subtree
-        TreeNode* leftSubtree= invertTree(root->left);
-        TreeNode* rightSubtree= invertTree(root->right);
-        //swsap left and right children
+        if(root==nullptr)return nullptr;
+        TreeNode* leftSubtree=invertTree(root->left);
+        TreeNode* rightSubtree=invertTree(root->right);
         root->left=rightSubtree;
         root->right=leftSubtree;
         return root;
-        
     }
 };
