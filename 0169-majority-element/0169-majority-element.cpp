@@ -15,3 +15,11 @@ public:
         
     }
 };
+// We use the Boyer–Moore Majority Vote Algorithm to find the majority element in O(n) time and O(1) space.
+// The algorithm has two main ideas:
+// Keep a candidate element and a count.
+// Traverse the array:
+// If the current element equals the candidate → increment count.
+// Else → decrement count.
+// If count becomes 0 → choose the current element as the new candidate and reset count to 1.
+// Since the majority element appears more than ⌊n/2⌋ times, it will survive as the candidate at the end.
