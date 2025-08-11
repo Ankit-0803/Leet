@@ -279,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-0803/Leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Ankit-0803/Leet/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
