@@ -30,3 +30,12 @@ public:
         return result;
     }
 };
+// string path = "/a/./b/../../c/";
+// "" → ignore.
+// "a" → push → st = ["a"].
+// "." → ignore.
+// "b" → push → st = ["a", "b"].
+// ".." → pop → st = ["a"].
+// ".." → pop → st = [].
+// "c" → push → st = ["c"].
+// "" → ignore.
