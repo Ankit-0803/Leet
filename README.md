@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ankit-0803/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ankit-0803/Leet/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Ankit-0803/Leet/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ankit-0803/Leet/tree/master/0092-reverse-linked-list-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
