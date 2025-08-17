@@ -10,3 +10,6 @@ public:
         return count;
     }
 };
+// On the first division by 5, we count all numbers divisible by 5.
+// On the second division by 5, we’re essentially counting numbers divisible by 25, because they were already counted once before and still survive another division.
+// On the third division by 5, we count numbers divisible by 125
