@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-0803/Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
