@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Ankit-0803/Leet/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit-0803/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ankit-0803/Leet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit-0803/Leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -316,8 +319,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ankit-0803/Leet/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Ankit-0803/Leet/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ankit-0803/Leet/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
