@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Ankit-0803/Leet/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Ankit-0803/Leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ankit-0803/Leet/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit-0803/Leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Ankit-0803/Leet/tree/master/0190-reverse-bits) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 ## Counting
 |  |
