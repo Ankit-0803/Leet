@@ -22,8 +22,9 @@ public:
         root->left=nullptr;
         //step3- find the tail starting from root(works even when left is null)
         TreeNode* curr=root;
-        while(curr->right)
+        while(curr->right){
             curr=curr->right;
+        }
          //step4- attach saved right subtree
         curr->right=temp;
          
