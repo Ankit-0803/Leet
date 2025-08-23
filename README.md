@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ankit-0803/Leet/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/Ankit-0803/Leet/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankit-0803/Leet/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankit-0803/Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/Ankit-0803/Leet/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankit-0803/Leet/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
