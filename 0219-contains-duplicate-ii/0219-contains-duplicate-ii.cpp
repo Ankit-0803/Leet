@@ -6,6 +6,7 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             int num = nums[i];
             // If num was seen before
+            //if (lastIndex.find(num) != lastIndex.end()) or if (lastIndex.count(num)), both are right
             if (lastIndex.count(num)) {
                 // Check distance
                 if (i - lastIndex[num] <= k) {
