@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ankit-0803/Leet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit-0803/Leet/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Ankit-0803/Leet/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-0803/Leet/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankit-0803/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
