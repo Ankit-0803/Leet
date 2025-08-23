@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ankit-0803/Leet/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Ankit-0803/Leet/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ankit-0803/Leet/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit-0803/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ankit-0803/Leet/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ankit-0803/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit-0803/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ankit-0803/Leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankit-0803/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit-0803/Leet/tree/master/0342-power-of-four) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankit-0803/Leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ankit-0803/Leet/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ankit-0803/Leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankit-0803/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit-0803/Leet/tree/master/0342-power-of-four) |
