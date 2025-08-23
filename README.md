@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1628-count-submatrices-with-all-ones) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ankit-0803/Leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
