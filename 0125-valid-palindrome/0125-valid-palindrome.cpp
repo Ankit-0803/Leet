@@ -1,18 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left=0;
-        int right=s.size()-1;
-        while(left<right){
-            //skipping now alphanumeric characters form left and form right
-            while(left<right && !isalnum(s[left]))left++;
-            while(left<right && !isalnum(s[right]))right--;
-            if(tolower(s[left])!=tolower(s[right]))return false;
-            left++;
-            right--;
+        string sfinal="";
+        for(char c:s){
+            if(isalnum(c)){
+                sfinal+=tolower(c);
+            }
+        }
+        int n=sfinal.size();
+        int i=0, j=n-1;
+        while(i<j){
+            if(sfinal[i]!=sfinal[j]){
+            return false;
+            }
+            i++;
+            j--;
         }
         return true;
-
         
     }
 };
