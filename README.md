@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ankit-0803/Leet/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Ankit-0803/Leet/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Ankit-0803/Leet/tree/master/0290-word-pattern) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-0803/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ankit-0803/Leet/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ankit-0803/Leet/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit-0803/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Ankit-0803/Leet/tree/master/0290-word-pattern) |
