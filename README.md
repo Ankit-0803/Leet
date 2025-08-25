@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Ankit-0803/Leet/tree/master/0679-24-game) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ankit-0803/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Ankit-0803/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
