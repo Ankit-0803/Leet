@@ -1,31 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        //step-1 sort the array to apply two pointer approach
         int n=nums.size();
-        vector<vector<int>>result;
+        vector<vector<int>>res;
         sort(nums.begin(), nums.end());
-        //step-2 fix one element and find the other two
         for(int i=0; i<n; i++){
+            //skip duplicates for i
             if(i>0 && nums[i]==nums[i-1])continue;
-            int j=i+1; //second element
-            int k=n-1; //third element
+            int j=i+1, k=n-1;
             while(j<k){
-                int sum=nums[i]+nums[j]+nums[k];
-                if(sum==0){
-                    result.push_back({nums[i],nums[j],nums[k]});
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1])j++;;
-                    while(j<k && nums[k]==nums[k+1])k--;
-            
-                }
-                else if(sum<0)j++;
-                else k--;
+            int sum=nums[i]+nums[j]+nums[k];
+            if(sum==0){
+                res.push_back({nums[i], nums[j], nums[k]});
+            //skip duplicates for j and k
+            while(j<k && nums[j]==nums[j+1])j++;
+            while(j<k && nums[k]==nums[k-1])k--;
+            j++;
+            k--;
             }
-
+            else if(sum<0)j++;
+            else k--;
+            }
         }
-        return result;
+        
+        return res;
         
     }
 };
