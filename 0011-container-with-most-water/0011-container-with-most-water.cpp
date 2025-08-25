@@ -1,17 +1,18 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int maxArea=0;
+        int maxarea=0;
         int n=height.size();
         int i=0, j=n-1;
         while(i<j){
-        //choosing the minimum height to store the water efficiently
-        int Area=min(height[i], height[j])*(j-i);
-        //moving the shorter height so that area might increase
-        maxArea=max(maxArea, Area);
+        int area=(j-i)*min(height[i], height[j]);
         if(height[i]<height[j])i++;
-        else j--;
+        else {
+            j--;
         }
-        return maxArea;
+        maxarea=max(maxarea, area);
+        }
+        return maxarea;
+        
     }
 };
