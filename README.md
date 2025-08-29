@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ankit-0803/Leet/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ankit-0803/Leet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankit-0803/Leet/tree/master/0058-length-of-last-word) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ankit-0803/Leet/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Ankit-0803/Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-0803/Leet/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Ankit-0803/Leet/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ankit-0803/Leet/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ankit-0803/Leet/tree/master/0206-reverse-linked-list) |
