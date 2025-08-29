@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankit-0803/Leet/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Ankit-0803/Leet/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-0803/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankit-0803/Leet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-0803/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ankit-0803/Leet/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankit-0803/Leet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit-0803/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankit-0803/Leet/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ankit-0803/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ankit-0803/Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
