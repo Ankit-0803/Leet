@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ankit-0803/Leet/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ankit-0803/Leet/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Ankit-0803/Leet/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-0803/Leet/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ankit-0803/Leet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Ankit-0803/Leet/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ankit-0803/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankit-0803/Leet/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Ankit-0803/Leet/tree/master/0085-maximal-rectangle) |
