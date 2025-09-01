@@ -11,37 +11,28 @@
 class Solution {
 public:
     ListNode* reverse(ListNode* head){
-        ListNode* prev=nullptr;
-        ListNode* temp=head;
-        while(temp!=nullptr){
-            ListNode* fwd=temp->next; //save next node
-            temp->next=prev; //exchange links
+        while(head!=nullptr){
+            ListNode* prev=nullptr;
+            ListNode* forward=nullptr;
+            ListNode* temp->next=forward; //store the node
+            forward->next=temp //exchange the links
             prev=temp;
-            temp=fwd;
+            temp=forward;
         }
-        return prev;
     }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(!head||left==right)return head;
-        ListNode dummy(-1);
-        dummy.next = head;
-        ListNode* prev = &dummy;
-
-
-        for(int i=0; i<left-1; i++){
-            prev=prev->next;
-        }
-        ListNode* reverseHead=prev->next;
-        ListNode* reverseTail=reverseHead;
-        for(int i=0; i<right-left; i++){
-            reverseTail=reverseTail->next;
-        }
-        ListNode* nextNode= reverseTail->next;
-        reverseTail->next=nullptr;
-        prev->next=reverse(reverseHead);
-        reverseHead->next=nextNode;
-        return dummy.next;
+             ListNode* prev=head;
+             while(prev->next!=head)prev=prev->next;
+             right=left;
+             for(int i=left; i<right-left; i++){
+                right++;
+             }
+             ListNode* nextnode=right->next;
+             right->next=nullptr;
+             ListNode* reverseHead = reverse(left);
+             prev->next=reverseHead;
+             head->next=nextn
+             
 
     }
-  
 };
