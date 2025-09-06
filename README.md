@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ankit-0803/Leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ankit-0803/Leet/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ankit-0803/Leet/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ankit-0803/Leet/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ankit-0803/Leet/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ankit-0803/Leet/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit-0803/Leet/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankit-0803/Leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Ankit-0803/Leet/tree/master/2529-range-product-queries-of-powers) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ankit-0803/Leet/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ankit-0803/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankit-0803/Leet/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ankit-0803/Leet/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Ankit-0803/Leet/tree/master/3830-find-closest-person) |
 ## Probability and Statistics
 |  |
