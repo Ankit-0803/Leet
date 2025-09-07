@@ -11,7 +11,7 @@ public:
                 if(mppST[c1]!=c2)return false;
             }
             else{
-             mppST[s[i]]=t[i];
+             mppST[c1]=c2;
             }
             //if c2 already mapped check consistency
             if(mppTS.find(c2)!=mppTS.end()){
