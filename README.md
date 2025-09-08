@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Ankit-0803/Leet/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ankit-0803/Leet/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ankit-0803/Leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ankit-0803/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankit-0803/Leet/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Ankit-0803/Leet/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
