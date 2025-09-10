@@ -19,3 +19,6 @@ public:
     return image;
     }
 };
+// It immediately exits the current recursive call of the function.
+// Control goes back to the previous recursive call (the parent cell).
+// This prevents painting outside the image boundaries or painting wrong-colored cells.
