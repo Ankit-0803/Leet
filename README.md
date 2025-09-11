@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ankit-0803/Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Ankit-0803/Leet/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ankit-0803/Leet/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Ankit-0803/Leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-0803/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ankit-0803/Leet/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ankit-0803/Leet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ankit-0803/Leet/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit-0803/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
@@ -565,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit-0803/Leet/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ankit-0803/Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
