@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ankit-0803/Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ankit-0803/Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Hash Table
 |  |
