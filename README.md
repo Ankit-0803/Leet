@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ankit-0803/Leet/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Ankit-0803/Leet/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Ankit-0803/Leet/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ankit-0803/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ankit-0803/Leet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ankit-0803/Leet/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -561,5 +563,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit-0803/Leet/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
