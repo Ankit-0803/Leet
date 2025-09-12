@@ -11,33 +11,23 @@
  */
 class Solution {
 public:
-    unordered_map<int, int>mpp; //store value->index in order
-    int preindex=0;   //to track the root in preorder
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder, int instart, int inend){
-     //base case
-     if(instart>inend)return nullptr;
-     //get the root value from preorder
-     int rootval=preorder[preindex++];
-     TreeNode* root=new TreeNode(rootval);
-
-     //find the index of root in inorder
-     int inindex= mpp[rootval];
-
-
-     //build the left and right subtree
-     root->left= build(preorder, inorder, instart, inindex-1);
-     root->right= build(preorder, inorder, inindex+1, inend);
-     return root;
+    int preindex=0;
+    TreeNode* build(vector<int>& preorder, vector<int>& inorder, int instart, int inend, unordered_map<int, int>& mpp){
+    if(instart>inend)return nullptr;
+    int rootval=preorder[preindex++];
+    TreeNode* root=new TreeNode(rootval);
+    //find the index of root in inorder, and separate left and right subtree accordingly
+    int inindex=mpp[rootval];
+    root->left=build(preorder, inorder, instart, inindex-1, mpp);
+    root->right=build(preorder, inorder, inindex+1, inend, mpp);
+    return root;
     }
-
-  
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        //prorder tells us the order in which to create roots
-        //inorder tells how to split the left and right subtree
-        //populate the hashmap
-        for(int i=0; i<inorder.size(); i++){
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {  
+        unordered_map<int, int>mpp; 
+        int n=inorder.size();
+        for(int i=0; i<n; i++){
             mpp[inorder[i]]=i;
         }
-        return build(preorder, inorder, 0, inorder.size()-1);
+        return build(preorder, inorder, 0, n-1, mpp);
     }
 };
