@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/Ankit-0803/Leet/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ankit-0803/Leet/tree/master/0739-daily-temperatures) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankit-0803/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0826-soup-servings](https://github.com/Ankit-0803/Leet/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ankit-0803/Leet/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankit-0803/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
