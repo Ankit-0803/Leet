@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankit-0803/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ankit-0803/Leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankit-0803/Leet/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ankit-0803/Leet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ankit-0803/Leet/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ankit-0803/Leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
