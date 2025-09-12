@@ -1,18 +1,16 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int maxarea=0;
         int n=height.size();
-        int i=0, j=n-1;
+        int i=0;
+        int j=n-1;
+        int maxarea=0;
         while(i<j){
-        int area=(j-i)*min(height[i], height[j]);
-        if(height[i]<height[j])i++;
-        else {
-            j--;
-        }
-        maxarea=max(maxarea, area);
+           int area=min(height[i], height[j])*(j-i);
+           maxarea=max(area, maxarea);
+           if(height[i]<=height[j])i++;
+           else j--;
         }
         return maxarea;
-        
     }
 };
