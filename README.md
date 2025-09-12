@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankit-0803/Leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankit-0803/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankit-0803/Leet/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Ankit-0803/Leet/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit-0803/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
