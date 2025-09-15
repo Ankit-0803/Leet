@@ -13,22 +13,22 @@ class Solution {
 public:
     int count=0;
     int res=-1;
-    void helper(TreeNode* root, int k){
-        if(!root)return;
-        //traverse the left subtree
-        helper(root->left, k);
+    void kth(TreeNode* root, int k){
+        if(root==nullptr)return;
+        //traverse left subtree
+        kth(root->left, k);
         count++;
-        //if count==k, we have found the kth smallest value
         if(count==k){
-        res=root->val;
-        return; //got the res, return early
+            res=root->val;
+            return;
         }
-        //traverse the right subtree
-        helper(root->right, k);
+        //traverse right subtree
+        kth(root->right, k);
     }
-    int kthSmallest(TreeNode* root, int k) {
-    helper(root, k);
-    return res;
 
+    int kthSmallest(TreeNode* root, int k) {
+        kth(root, k);
+        return res;
+        
     }
 };
