@@ -1,28 +1,26 @@
 class Solution {
 public:
-        bool anagrams(string q, string p){
-        if(q.size()!=p.size())return false;
-        vector<int>freq(26,0);
-        for(char c:p){
-            freq[c-'a']++;
-        }
-        for(char c:q){
-            freq[c-'a']--;
-            if(freq[c-'a']<0)return false;
-        }
-        return true;
-    }
     vector<int> findAnagrams(string s, string p) {
+        int n=s.size();
+        int m=p.size();
         vector<int>res;
-        int z=p.size();
-        for(int i=0; i+z<=s.size(); i++){
-            string q="";
-            for(int j=i; j<(i+z); j++){
-                q.push_back(s[j]);
-            }
-        if(anagrams(p, q)==true)res.push_back(i);
- 
+        if(n<m)return res;
+        vector<int>freqP(26,0);
+        vector<int>freqS(26,0);
+        for(char c:p){
+            freqP[c-'a']++;
+        }
+        //1st sliding window
+        for(int i=0; i<m; i++){
+        freqS[s[i]-'a']++;
+        }
+        if(freqP==freqS)res.push_back(0);
+        for(int i=m; i<n; i++){
+            freqS[s[i]-'a']++;
+            freqS[s[i-m]-'a']--;
+             if(freqP==freqS)res.push_back(i-m+1);
         }
         return res;
     }
+
 };
