@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankit-0803/Leet/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ankit-0803/Leet/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ankit-0803/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ankit-0803/Leet/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ankit-0803/Leet/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ankit-0803/Leet/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
+| [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ankit-0803/Leet/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
 ## Iterator
 |  |
 | ------- |
