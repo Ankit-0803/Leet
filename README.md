@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ankit-0803/Leet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ankit-0803/Leet/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit-0803/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Ankit-0803/Leet/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ankit-0803/Leet/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ankit-0803/Leet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ankit-0803/Leet/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Ankit-0803/Leet/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ankit-0803/Leet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ankit-0803/Leet/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ankit-0803/Leet/tree/master/0208-implement-trie-prefix-tree) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ankit-0803/Leet/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ankit-0803/Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ankit-0803/Leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ankit-0803/Leet/tree/master/0101-symmetric-tree) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Ankit-0803/Leet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ankit-0803/Leet/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Ankit-0803/Leet/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ankit-0803/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ankit-0803/Leet/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Ankit-0803/Leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit-0803/Leet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ankit-0803/Leet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ankit-0803/Leet/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ankit-0803/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
