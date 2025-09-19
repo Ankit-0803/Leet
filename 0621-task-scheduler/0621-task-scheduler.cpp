@@ -11,9 +11,9 @@ public:
        int maxfreq=*max_element(freq.begin(), freq.end());
        //count how many tasks have max frequency
        int maxcount=count(freq.begin(), freq.end(), maxfreq);
+       //minimum intervals required to place all most frequent tasks while respecting cooldowns.
        int part1=(maxfreq-1)*(n+1)+maxcount;
        return max(x,part1);
 
-     
     }
     };
