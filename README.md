@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Ankit-0803/Leet/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankit-0803/Leet/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ankit-0803/Leet/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankit-0803/Leet/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Ankit-0803/Leet/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ankit-0803/Leet/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ankit-0803/Leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit-0803/Leet/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ankit-0803/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ankit-0803/Leet/tree/master/0190-reverse-bits) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Ankit-0803/Leet/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ankit-0803/Leet/tree/master/1917-maximum-average-pass-ratio) |
 | [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
@@ -612,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ankit-0803/Leet/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Database
 |  |
@@ -647,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
