@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankit-0803/Leet/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Ankit-0803/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Ankit-0803/Leet/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Ankit-0803/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ankit-0803/Leet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ankit-0803/Leet/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ankit-0803/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Ankit-0803/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ankit-0803/Leet/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Ankit-0803/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Ankit-0803/Leet/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
