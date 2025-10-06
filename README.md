@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankit-0803/Leet/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/Ankit-0803/Leet/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Ankit-0803/Leet/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ankit-0803/Leet/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-0803/Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankit-0803/Leet/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/Ankit-0803/Leet/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit-0803/Leet/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit-0803/Leet/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ankit-0803/Leet/tree/master/3790-fruits-into-baskets-ii) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ankit-0803/Leet/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankit-0803/Leet/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -642,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ankit-0803/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Ankit-0803/Leet/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Ankit-0803/Leet/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ankit-0803/Leet/tree/master/1917-maximum-average-pass-ratio) |
@@ -665,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankit-0803/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
+| [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 ## Graph
 |  |
 | ------- |
