@@ -1,8 +1,3 @@
 # Write your MySQL query statement below
-select uni.unique_id, emp.name from Employees emp
-Left join EmployeeUNI uni on uni.id=emp.id
-
-     
--- INNER JOIN: Intersection only (common rows).
--- LEFT JOIN: Everything from left + intersection.
--- RIGHT JOIN: Everything from right + intersection.
+select unique_id, name from Employees as e
+Left join EmployeeUNI as eu on e.id=eu.id
