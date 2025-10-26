@@ -3,6 +3,7 @@
  * @return {Object}
  */
 Array.prototype.groupBy = function(fn) {
+    //creates an empty object that will hold all your grouped results
     const grouped={};
     for(const item of this){
         //get group key by calling fn on item
