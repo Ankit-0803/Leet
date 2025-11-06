@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ankit-0803/Leet/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Ankit-0803/Leet/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ankit-0803/Leet/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ankit-0803/Leet/tree/master/1036-rotting-oranges) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ankit-0803/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Ankit-0803/Leet/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ankit-0803/Leet/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ankit-0803/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Ankit-0803/Leet/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ankit-0803/Leet/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Ankit-0803/Leet/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Ankit-0803/Leet/tree/master/2023-design-movie-rental-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankit-0803/Leet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Ankit-0803/Leet/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Iterator
 |  |
 | ------- |
@@ -748,11 +754,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankit-0803/Leet/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
 | [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ankit-0803/Leet/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
+| [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
