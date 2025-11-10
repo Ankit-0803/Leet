@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-0803/Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankit-0803/Leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit-0803/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/Ankit-0803/Leet/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Ankit-0803/Leet/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ankit-0803/Leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Ankit-0803/Leet/tree/master/0399-evaluate-division) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankit-0803/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankit-0803/Leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankit-0803/Leet/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Ankit-0803/Leet/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankit-0803/Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Ankit-0803/Leet/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
@@ -840,4 +842,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ankit-0803/Leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ankit-0803/Leet/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
