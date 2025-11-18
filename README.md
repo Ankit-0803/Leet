@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ankit-0803/Leet/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Ankit-0803/Leet/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/Ankit-0803/Leet/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ankit-0803/Leet/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ankit-0803/Leet/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
