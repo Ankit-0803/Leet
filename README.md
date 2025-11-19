@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ankit-0803/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit-0803/Leet/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit-0803/Leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit-0803/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit-0803/Leet/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ankit-0803/Leet/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ankit-0803/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ankit-0803/Leet/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2169-simple-bank-system](https://github.com/Ankit-0803/Leet/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ankit-0803/Leet/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit-0803/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ankit-0803/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ankit-0803/Leet/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Ankit-0803/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit-0803/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ankit-0803/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ankit-0803/Leet/tree/master/2887-sort-vowels-in-a-string) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ankit-0803/Leet/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ankit-0803/Leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Ankit-0803/Leet/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit-0803/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ankit-0803/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ankit-0803/Leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit-0803/Leet/tree/master/2408-number-of-people-aware-of-a-secret) |
