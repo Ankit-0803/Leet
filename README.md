@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ankit-0803/Leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ankit-0803/Leet/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankit-0803/Leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ankit-0803/Leet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankit-0803/Leet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit-0803/Leet/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Ankit-0803/Leet/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit-0803/Leet/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit-0803/Leet/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankit-0803/Leet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ankit-0803/Leet/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ankit-0803/Leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Ankit-0803/Leet/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ankit-0803/Leet/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankit-0803/Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ankit-0803/Leet/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ankit-0803/Leet/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ankit-0803/Leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit-0803/Leet/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ankit-0803/Leet/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ankit-0803/Leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ankit-0803/Leet/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ankit-0803/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit-0803/Leet/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Ankit-0803/Leet/tree/master/3827-implement-router) |
 ## Memoization
 |  |
@@ -873,4 +878,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ankit-0803/Leet/tree/master/0274-h-index) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit-0803/Leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
