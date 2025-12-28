@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankit-0803/Leet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ankit-0803/Leet/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ankit-0803/Leet/tree/master/0190-reverse-bits) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-0803/Leet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ankit-0803/Leet/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Ankit-0803/Leet/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ankit-0803/Leet/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ankit-0803/Leet/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ankit-0803/Leet/tree/master/0067-add-binary) |
