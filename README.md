@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit-0803/Leet/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit-0803/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Ankit-0803/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Ankit-0803/Leet/tree/master/1036-rotting-oranges) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ankit-0803/Leet/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ankit-0803/Leet/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ankit-0803/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ankit-0803/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Ankit-0803/Leet/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankit-0803/Leet/tree/master/1834-minimum-number-of-people-to-teach) |
