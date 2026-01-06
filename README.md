@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Ankit-0803/Leet/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit-0803/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ankit-0803/Leet/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ankit-0803/Leet/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit-0803/Leet/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ankit-0803/Leet/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Ankit-0803/Leet/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ankit-0803/Leet/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Ankit-0803/Leet/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Ankit-0803/Leet/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ankit-0803/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ankit-0803/Leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
