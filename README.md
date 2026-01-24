@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ankit-0803/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/Ankit-0803/Leet/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankit-0803/Leet/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankit-0803/Leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ankit-0803/Leet/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Ankit-0803/Leet/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ankit-0803/Leet/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ankit-0803/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ankit-0803/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Ankit-0803/Leet/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankit-0803/Leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ankit-0803/Leet/tree/master/1917-maximum-average-pass-ratio) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ankit-0803/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ankit-0803/Leet/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Ankit-0803/Leet/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Ankit-0803/Leet/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankit-0803/Leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ankit-0803/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Ankit-0803/Leet/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/Ankit-0803/Leet/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Ankit-0803/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankit-0803/Leet/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit-0803/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ankit-0803/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/Ankit-0803/Leet/tree/master/2689-rearranging-fruits) |
